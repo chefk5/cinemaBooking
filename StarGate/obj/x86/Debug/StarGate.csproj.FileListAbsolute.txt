@@ -1,0 +1,30 @@
+C:\Users\toshiba1\Documents\Visual Studio 2010\Projects\StarGate\StarGate\bin\Debug\StarGate.exe
+C:\Users\toshiba1\Documents\Visual Studio 2010\Projects\StarGate\StarGate\bin\Debug\StarGate.pdb
+C:\Users\toshiba1\Documents\Visual Studio 2010\Projects\StarGate\StarGate\obj\x86\Debug\StarGate.Customer.resources
+C:\Users\toshiba1\Documents\Visual Studio 2010\Projects\StarGate\StarGate\obj\x86\Debug\StarGate.Login.resources
+C:\Users\toshiba1\Documents\Visual Studio 2010\Projects\StarGate\StarGate\obj\x86\Debug\StarGate.Properties.Resources.resources
+C:\Users\toshiba1\Documents\Visual Studio 2010\Projects\StarGate\StarGate\obj\x86\Debug\StarGate.csproj.GenerateResource.Cache
+C:\Users\toshiba1\Documents\Visual Studio 2010\Projects\StarGate\StarGate\obj\x86\Debug\StarGate.exe
+C:\Users\toshiba1\Documents\Visual Studio 2010\Projects\StarGate\StarGate\obj\x86\Debug\StarGate.pdb
+C:\Users\toshiba1\Documents\Visual Studio 2010\Projects\StarGate\StarGate\obj\x86\Debug\StarGate.Admin.resources
+C:\Users\toshiba1\Documents\Visual Studio 2010\Projects\StarGate\StarGate\obj\x86\Debug\StarGate.csprojResolveAssemblyReference.cache
+C:\Users\toshiba1\Documents\Visual Studio 2010\Projects\StarGate\StarGate\obj\x86\Debug\StarGate.Add_Movies.resources
+C:\Users\Khaled\Documents\Khaled\Spring 2016\Visual Programming\project\StarGate\StarGate\obj\x86\Debug\StarGate.Add_Movies.resources
+C:\Users\Khaled\Documents\Khaled\Spring 2016\Visual Programming\project\StarGate\StarGate\obj\x86\Debug\StarGate.Admin.resources
+C:\Users\Khaled\Documents\Khaled\Spring 2016\Visual Programming\project\StarGate\StarGate\obj\x86\Debug\StarGate.Customer.resources
+C:\Users\Khaled\Documents\Khaled\Spring 2016\Visual Programming\project\StarGate\StarGate\obj\x86\Debug\StarGate.Login.resources
+C:\Users\Khaled\Documents\Khaled\Spring 2016\Visual Programming\project\StarGate\StarGate\obj\x86\Debug\StarGate.Profits.resources
+C:\Users\Khaled\Documents\Khaled\Spring 2016\Visual Programming\project\StarGate\StarGate\obj\x86\Debug\StarGate.Properties.Resources.resources
+C:\Users\Khaled\Documents\Khaled\Spring 2016\Visual Programming\project\StarGate\StarGate\obj\x86\Debug\StarGate.Salesform.resources
+C:\Users\Khaled\Documents\Khaled\Spring 2016\Visual Programming\project\StarGate\StarGate\obj\x86\Debug\StarGate.Showing_Movies.resources
+C:\Users\Khaled\Documents\Khaled\Spring 2016\Visual Programming\project\StarGate\StarGate\obj\x86\Debug\StarGate.Tickets.resources
+C:\Users\Khaled\Documents\Khaled\Spring 2016\Visual Programming\project\StarGate\StarGate\obj\x86\Debug\StarGate.updatedelete.resources
+C:\Users\Khaled\Documents\Khaled\Spring 2016\Visual Programming\project\StarGate\StarGate\obj\x86\Debug\StarGate.csproj.GenerateResource.Cache
+C:\Users\Khaled\Documents\Khaled\Spring 2016\Visual Programming\project\StarGate\StarGate\bin\Debug\Add Movies.resx
+C:\Users\Khaled\Documents\Khaled\Spring 2016\Visual Programming\project\StarGate\StarGate\bin\Debug\Add Movies.cs
+C:\Users\Khaled\Documents\Khaled\Spring 2016\Visual Programming\project\StarGate\StarGate\bin\Debug\Add Movies.Designer.cs
+C:\Users\Khaled\Documents\Khaled\Spring 2016\Visual Programming\project\StarGate\StarGate\bin\Debug\StarGate.exe.config
+C:\Users\Khaled\Documents\Khaled\Spring 2016\Visual Programming\project\StarGate\StarGate\bin\Debug\StarGate.exe
+C:\Users\Khaled\Documents\Khaled\Spring 2016\Visual Programming\project\StarGate\StarGate\bin\Debug\StarGate.pdb
+C:\Users\Khaled\Documents\Khaled\Spring 2016\Visual Programming\project\StarGate\StarGate\obj\x86\Debug\StarGate.exe
+C:\Users\Khaled\Documents\Khaled\Spring 2016\Visual Programming\project\StarGate\StarGate\obj\x86\Debug\StarGate.pdb
